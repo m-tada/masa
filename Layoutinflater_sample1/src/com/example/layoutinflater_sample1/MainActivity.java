@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 
 	//コメントテスト
 	//コメントテスト2
+	//コメントテスト3
 
         @Override
         public void onCreate(Bundle savedInstanceState) {
